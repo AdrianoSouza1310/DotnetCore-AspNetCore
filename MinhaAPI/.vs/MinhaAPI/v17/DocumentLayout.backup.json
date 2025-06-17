@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adriano Souza\\Documents\\dotnetcore\\MinhaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3AC2EC-587F-44EF-B3A0-5FFA84EA5FBC}|MinhaAPI\\MinhaAPI.csproj|c:\\users\\adriano souza\\documents\\dotnetcore\\minhaapi\\minhaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3AC2EC-587F-44EF-B3A0-5FFA84EA5FBC}|MinhaAPI\\MinhaAPI.csproj|solutionrelative:minhaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Adriano Souza\\Documents\\dotnetcore\\MinhaAPI\\MinhaAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MinhaAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Adriano Souza\\Documents\\dotnetcore\\MinhaAPI\\MinhaAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MinhaAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:05:31.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

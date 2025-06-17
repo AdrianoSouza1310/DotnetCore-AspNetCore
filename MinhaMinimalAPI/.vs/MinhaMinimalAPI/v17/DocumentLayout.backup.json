@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adriano Souza\\Documents\\dotnetcore\\MinhaMinimalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5D8620-D27C-42D9-88EC-B10F6C87C1FD}|MinhaMinimalAPI\\MinhaMinimalAPI.csproj|c:\\users\\adriano souza\\documents\\dotnetcore\\minhaminimalapi\\minhaminimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5D8620-D27C-42D9-88EC-B10F6C87C1FD}|MinhaMinimalAPI\\MinhaMinimalAPI.csproj|solutionrelative:minhaminimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adriano Souza\\Documents\\dotnetcore\\MinhaMinimalAPI\\MinhaMinimalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MinhaMinimalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Adriano Souza\\Documents\\dotnetcore\\MinhaMinimalAPI\\MinhaMinimalAPI\\Program.cs*",
+              "RelativeToolTip": "MinhaMinimalAPI\\Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:05:36.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
